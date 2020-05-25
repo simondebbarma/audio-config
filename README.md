@@ -1,9 +1,9 @@
-# Peace (Equalizer APO) Config Files/
+# Peace (Equalizer APO) Config Files
 ~ peace configurations for my audio devices ~
 
-Devices Added :
+## Devices Added :
 
-Sennheiser HD 4.20s
+**Sennheiser HD 4.20s**
 
 <img src="https://media.giphy.com/media/tbapfDZ4mZJn2/giphy.gif" width=100%>
 
