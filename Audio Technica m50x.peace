@@ -1,6 +1,6 @@
 [General]
 Configuration Icon=11
-PreAmp=1.5
+PreAmp=3.21
 [Speakers]
 SpeakerId0=0
 SpeakerTargets0=all
